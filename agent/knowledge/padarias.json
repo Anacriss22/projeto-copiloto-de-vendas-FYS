@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nome": "Padaria Pão de Ouro",
+    "bairro": "Pinheiros",
+    "foco": "Almoço executivo e salgados de estufa",
+    "publico": "Jovens profissionais e estudantes (público aberto a novidades)",
+    "proximo_parceiro_heineken": true,
+    "vende_fys": false
+  },
+  {
+    "id": 2,
+    "nome": "Panificadora Santa Cecília",
+    "bairro": "Santa Cecília",
+    "foco": "Tradicional de bairro, pão na chapa e café",
+    "publico": "Moradores tradicionais de bairro e idosos",
+    "proximo_parceiro_heineken": false,
+    "vende_fys": true
+  },
+  {
+    "id": 3,
+    "nome": "Boulangerie Jardins",
+    "bairro": "Jardins",
+    "foco": "Confeitaria fina e pães artesanais gourmet",
+    "publico": "Público de alto poder aquisitivo, busca marcas premium/orgânicas",
+    "proximo_parceiro_heineken": true,
+    "vende_fys": false
+  },
+  {
+    "id": 4,
+    "nome": "Ponto do Pão",
+    "bairro": "Itaim Bibi",
+    "foco": "Combos de lanche da tarde para escritórios",
+    "publico": "Profissionais de escritório e público corporativo",
+    "proximo_parceiro_heineken": true,
+    "vende_fys": false
+  },
+  {
+    "id": 5,
+    "nome": "Padaria da Esquina",
+    "bairro": "Mooca",
+    "foco": "Padaria tradicional familiar, buffet de almoço",
+    "publico": "Famílias e trabalhadores da região",
+    "proximo_parceiro_heineken": false,
+    "vende_fys": false
+  }
+]
