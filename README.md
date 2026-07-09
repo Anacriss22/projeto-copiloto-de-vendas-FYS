@@ -70,4 +70,4 @@ Quando o vendedor insere os dados de uma padaria como a **Padaria Pão de Ouro**
 
 * O FYS Bakery Copilot não fica restrito às mensagens iniciais como no exemplo real acima. Ele é um agente para acompanhar os clientes do canal padaria por todo o ciclo de vendas, inclusive para reativação de possíveis padarias que deixaram de comprar FYS.  
 
-* É possível integrar vários banco de dados e, com a IA, cruzar esses dados, analisar e planejar ações promocionais e eventos de degustação/experimentação em padarias mapeadas. Uma estratégia para melhorar também o sell out no canal padaria e ajudar a marca FYS a ser mais relevante e conhecida no mercado como um todo. 
+* É possível integrar vários banco de dados e, com a IA, cruzar esses dados, analisar e planejar ações promocionais e eventos de degustação/experimentação em padarias mapeadas. Uma estratégia para melhorar também o sell out no canal padaria e contibuir para a marca FYS ser mais conhecida no mercado. 
